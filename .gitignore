@@ -1,0 +1,31 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+Debug/
+Release/
+x64/
+x86/
+cmake-build-*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
